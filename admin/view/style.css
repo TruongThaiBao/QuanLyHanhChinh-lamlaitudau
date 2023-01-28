@@ -1,0 +1,20 @@
+div>h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    background-color: #0d6efd;
+    color: white;
+}
+
+legend {
+    text-align: center;
+}
+
+.container {
+    min-height: 93vh;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
